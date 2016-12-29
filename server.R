@@ -1,4 +1,4 @@
-setwd("/Users/thyagarr/coursera/DDP/")
+#setwd("/Users/thyagarr/coursera/DDP/")
 library(shiny)
 require(markdown)
 require(data.table)
